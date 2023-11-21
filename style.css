@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+.logo {
+  width: 15%;
+  height: 10%;
+  float: left;
+  margin-bottom: 10px;
+  
+}
+.navbar {
+  
+  text-align: right;
+  margin: 10px;
+  background-color: rgba(0, 0, 0, 0.901) ;
+  padding: 20px
+ 
+}
+.list a{
+  text-decoration: none;
+  color: #ffff;
+}
+.navbar li{
+  display: inline-block;
+  margin: 0 9px;
+  
+  
+}
+.container{
+
+text-align: center;
+}
+.portofolio-item{
+
+
+justify-content: center;
+
+
+}
+.potfolio img{
+  width: 26%;
+ float: right;
+margin: 1px;
+}
+.containeer{
+  
+  width: 80%;
+text-align: center;
+
+  
+}
+.potfolio h2 {
+  font-size: 30px;
+  align-items: end;
+  
+}
+.potfolio p{
+  text-align: center;
+width:100%;
+}
+.nav-item:hover{
+  color: rgba(209, 209, 25, 0.677);
+}
